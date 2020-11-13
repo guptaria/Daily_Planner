@@ -60,8 +60,8 @@ Current hour:red, past:grey,future:green
 
 
 ## Github_Links
-[**URL of My Github Repository**](https://github.com/guptaria/Quiz_contest)<br>
-[**URL of Deployed Application**](https://guptaria.github.io/Quiz_contest/.)
+[**URL of My Github Repository**](https://github.com/guptaria/Daily_Planner)<br>
+[**URL of Deployed Application**](https://guptaria.github.io/Daily_Planner/.)
 
 
 
