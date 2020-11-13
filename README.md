@@ -45,9 +45,9 @@ The user can input text into each block and click on the save button , it will s
 
 ## Final Result
 ### ScreenShots
-<!-- Current updated clock on the screen with current day and date. -->
+Current updated clock on the screen with current day and date.
 ![](Assets/screenshot1.png)
-<!-- Current hour:red, past:grey,future:green -->
+Current hour:red, past:grey,future:green
 ![](Assets/screenshot2.png)
 
 
