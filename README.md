@@ -47,7 +47,7 @@ The user can input text into each block and click on the save button , it will s
 ### ScreenShots
 Current updated clock on the screen with current day and date.
 ![](Assets/screenshot1.png)
-Current hour:red, past:grey,future:green
+Current hour:Red<br> Past hour:Grey<br>Future hour:Green
 ![](Assets/screenshot2.png)
 
 
